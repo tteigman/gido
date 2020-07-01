@@ -1,6 +1,4 @@
-### GIDO toolkit
-
-#### Welcome to the Garbage in Data Out Toolkit
+# Welcome to the Garbage in Data Out Toolkit
 
 ## FAQ
 
