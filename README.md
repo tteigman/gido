@@ -6,8 +6,8 @@
 Read any type of "structured" data and output in a tabular format. 
 
 ### Who is this for?
-- Transforming client reports to input into a standardized system
-- Migrate lots of messy data into a clean system.
+- Organizations who need to transform client reports for input into an application database.
+- Organizations who are migrating from spreadsheets and the like into an application. (e.g. sales data into a CRM)
 
 ### How does that even work?
 When this is done manually someone will look over the data (commonly in Excel) and start performing manipulations to create a standard tabular layout. Depending on the input data this can be quite laborious. I'm proposing using statistical techniques to determine header information and pattern recognition to classify the data.
